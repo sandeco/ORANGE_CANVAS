@@ -1,0 +1,6 @@
+name,vitamin A %,vitamin C %,calcium %,iron %,magnesium %,calories (per 100g),potassium (mg),protein (g),fiber (g),Tree,Logistic Regression,Tree (fruit),Tree (vegetable),Logistic Regression (fruit),Logistic Regression (vegetable)
+continuous,continuous,continuous,continuous,continuous,continuous,continuous,continuous,continuous,continuous,discrete,discrete,continuous,continuous,continuous,continuous
+,,,,,,,,,,meta,meta,meta,meta,meta,meta
+,1.0,154.0,3.0,1.0,4.0,61.0,213.0,1.1,3.0,fruit,fruit,1.0,0.0,0.983963572031,0.0160364279691
+,15.0,300.0,2.0,11.0,3.0,20.0,202.0,2.2,2.1,fruit,vegetable,1.0,0.0,0.0155311179977,0.984468882002
+,0.0,43.0,2.0,3.0,5.0,53.0,151.0,1.1,7.0,fruit,fruit,1.0,0.0,0.986752519528,0.0132474804722
